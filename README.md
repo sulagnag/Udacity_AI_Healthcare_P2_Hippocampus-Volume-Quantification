@@ -10,19 +10,19 @@ A radiological study via MRI exam is currently one of the most advanced methods 
 
 The hippocampus is a critical structure of the human brain (and the brain of other vertebrates) that plays important roles in the consolidation of information from short-term memory to long-term memory. In other words, the hippocampus is thought to be responsible for memory and learning (that's why we are all here, after all!)
 
-![Hippocampus](./readme.img/Hippocampus_small.gif)
+![Hippocampus](./images/Hippocampus_small.gif)
 
 Humans have two hippocampi, one in each hemishpere of the brain. They are located in the medial temporal lobe of the brain. Fun fact - the word "hippocampus" is roughly translated from Greek as "horselike" because of the similarity to a seahorse, a peculiarity observed by one of the first anatomists to illustrate the structure.
 
-<img src="./readme.img/Hippocampus_and_seahorse_cropped.jpg" width=200/>
+<img src="./images/Hippocampus_and_seahorse_cropped.jpg" width=200/>
 
 According to [studies](https://www.sciencedirect.com/science/article/pii/S2213158219302542), the volume of the hippocampus varies in a population, depending on various parameters, within certain boundaries, and it is possible to identify a "normal" range when taking into account age, sex and brain hemisphere. 
 
-<img src="./readme.img/nomogram_fem_right.svg" width=300>
+<img src="./images/nomogram_fem_right.svg" width=300>
 
 There is one problem with measuring the volume of the hippocampus using MRI scans, though - namely, the process tends to be quite tedious since every slice of the 3D volume needs to be analyzed, and the shape of the structure needs to be traced. The fact that the hippocampus has a non-uniform shape only makes it more challenging. Do you think you could spot the hippocampi in this axial slice?
 
-<img src="./readme.img/mri.jpg" width=200>
+<img src="./images/mri.jpg" width=200>
 
 ## The Dataset
 
