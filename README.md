@@ -1,7 +1,7 @@
 # Udacity_AI_Healthcare_P2_Hippocampus-Volume-Quantification
 Build an end-to-end AI system which features a machine learning algorithm that integrates into a clinical-grade viewer and automatically measures hippocampal volumes of new patients, as their studies are committed to the clinical imaging archive.
 
-## Problem Description
+## Clinical Background into the problem
 Alzheimer's disease (AD) is a progressive neurodegenerative disorder that results in impaired neuronal (brain cell) function and eventually, cell death. AD is the most common cause of dementia. Clinically, it is characterized by memory loss, inability to learn new material, loss of language function, and other manifestations.
 
 For patients exhibiting early symptoms, quantifying disease progression over time can help direct therapy and disease management.
